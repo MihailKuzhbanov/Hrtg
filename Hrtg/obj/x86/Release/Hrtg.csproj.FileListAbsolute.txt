@@ -1,0 +1,5 @@
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Hrtg\Hrtg\bin\Release\Hrtg.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Hrtg\Hrtg\bin\Release\Hrtg.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Hrtg\Hrtg\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Hrtg\Hrtg\obj\x86\Release\Hrtg.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Hrtg\Hrtg\obj\x86\Release\Hrtg.pdb

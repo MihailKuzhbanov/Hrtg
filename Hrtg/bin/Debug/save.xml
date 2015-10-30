@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gold>1986</gold>
+  <score>0</score>
+  <hp>171</hp>
+  <hp_max>209</hp_max>
+  <damage>70</damage>
+  <armor>45</armor>
+  <lvl>18</lvl>
+  <head_hp>0</head_hp>
+  <head_arm>7</head_arm>
+  <head_dam>5</head_dam>
+  <body_hp>10</body_hp>
+  <body_arm>10</body_arm>
+  <body_dam>5</body_dam>
+  <pant_hp>0</pant_hp>
+  <pant_arm>15</pant_arm>
+  <pant_dam>0</pant_dam>
+  <weapon_hp>20</weapon_hp>
+  <weapon_arm>0</weapon_arm>
+  <weapon_dam>30</weapon_dam>
+  <hand_hp>0</hand_hp>
+  <hand_arm>3</hand_arm>
+  <hand_dam>2</hand_dam>
+  <boot_hp>15</boot_hp>
+  <boot_arm>10</boot_arm>
+  <boot_dam>10</boot_dam>
+  <exp>1750</exp>
+  <hpot>14</hpot>
+  <hpot_max>18</hpot_max>
+  <v1>6</v1>
+  <v2>7</v2>
+  <v3>3</v3>
+  <v4>0</v4>
+  <v5>0</v5>
+  <name>Gavrosha</name>
+  <head_name>Шлем гнева</head_name>
+  <body_name>Кольчужный нагрудник</body_name>
+  <pant_name>Штаны из драконьей шкуры</pant_name>
+  <weapon_name>Секира легиона</weapon_name>
+  <hand_name>Кольчужные перчатки</hand_name>
+  <boot_name>Ботинки лучшего воина</boot_name>
+  <amul>Амулет защиты</amul>
+  <trader>true</trader>
+  <TraderName>Деребин</TraderName>
+</Player>
